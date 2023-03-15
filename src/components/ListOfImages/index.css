@@ -1,0 +1,19 @@
+.container{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+}
+.imageStyles{
+    width: 200px;
+    height: 200px;
+    border-radius: 4px;
+    
+}
+.bigImageStyles{
+    width: 100%;
+    height: 100%;
+    /* border-radius: 4px; */
+}
+.openableDiv{
+    cursor: pointer;
+}
